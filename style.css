@@ -1,9 +1,21 @@
 p {
 	font: Verdana;
+	font-size: 16pt;
 }
+
+p.center {
+	text-align: center;
+}
+
+h1 {
+	text-align: center;
+}
+
 img {
     height: 200px;
     width: 150px;
+    display: block;
+    margin: 0 auto;
 }
 
 div {
@@ -15,12 +27,14 @@ div {
 	font-size: 16pt;
 	background-color: azure;
 	width: 150px;
+	display: block;
+	margin: 0 auto;
 }
 
 .job {
 	font-weight: bold;
 }
 
-#wider {
+.wider {
 	width: 1000px;
 }
