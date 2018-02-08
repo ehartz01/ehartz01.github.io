@@ -5,3 +5,22 @@ img {
     height: 200px;
     width: 150px;
 }
+
+div {
+	width: 500px;
+}
+
+#info {
+	font: Verdana;
+	font-size: 16pt;
+	background-color: azure;
+	width: 150px;
+}
+
+.job {
+	font-weight: bold;
+}
+
+#wider {
+	width: 1000px;
+}
